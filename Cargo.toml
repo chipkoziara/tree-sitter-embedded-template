@@ -7,7 +7,7 @@ authors = [
 ]
 license = "MIT"
 readme = "bindings/rust/README.md"
-keywords = ["incremental", "parsing", "ruby", "erb", "ejs"]
+keywords = ["incremental", "parsing", "ruby", "erb", "ejs", "eex", "elixir]
 categories = ["parsing", "text-editors"]
 repository = "https://github.com/tree-sitter/tree-sitter-embedded-template"
 edition = "2018"
